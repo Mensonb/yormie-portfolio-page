@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function(){
+export default function Work(){
 
     return(
         <div>
@@ -10,19 +10,19 @@ export default function(){
               </div>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Kwagei Group</summary>
+                <summary class="font-bold text-2xl text-gray-800">Ministry Of Health</summary>
                 <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
                   pavilions, award-winning fireworks and seasonal special events.</p>
               </details>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">EasyTech</summary>
+                <summary class="font-bold text-2xl text-gray-800">Peculiar Treasure International School</summary>
                 <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
                   pavilions, award-winning fireworks and seasonal special events.</p>
               </details>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Epcot Center</summary>
+                <summary class="font-bold text-2xl text-gray-800">Liberia Domestic Airport Authority</summary>
                 <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
                   pavilions, award-winning fireworks and seasonal special events.</p>
               </details>
