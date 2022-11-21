@@ -11,20 +11,27 @@ export default function Education(){
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Education</summary>
-                <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-                  pavilions, award-winning fireworks and seasonal special events.</p>
+                <p><b>2019-2023 - </b> BSc Candidate, Wuxi Unversity</p>
+                <p><b>2012-2013 - </b> High School Diploma</p>
+              
               </details>
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Experience</summary>
-                <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-                  pavilions, award-winning fireworks and seasonal special events.</p>
+                <p><b>2016-2018 - </b>Math Teacher at Peculiar Treasure Internation School</p>
+                <p><b>2015-2016 - </b>Maintenance at Liberia Domestic Airport Authority</p>
               </details>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Sills</summary>
-                <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-                  pavilions, award-winning fireworks and seasonal special events.</p>
+                <summary class="font-bold text-2xl text-gray-800">Certificates</summary>
+                <p><b>2022 - </b>=======</p>
+                <p><b>2021 - </b>=======</p>
+              </details>
+
+              <details class="px-6 py-4">
+                <summary class="font-bold text-2xl text-gray-800">Skills</summary>
+                <p><b>2016-2018 - </b>====</p>
+                <p><b>2015-2016 - </b>====</p>
               </details>
     </div>
     

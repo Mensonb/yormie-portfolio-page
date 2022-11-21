@@ -72,7 +72,7 @@ export default function Navbar(){
                       font-medium
                       text-gray-900
                     ">Projects</a>
-                <a href="#" class="
+                <a href="/blog" class="
                       inline-flex
                       items-center
                       border-b-2 border-transparent
@@ -83,7 +83,7 @@ export default function Navbar(){
                       text-gray-500
                       hover:border-gray-300 hover:text-gray-700
                     ">Blog</a>
-                <a href="#" class="
+                <a href="/blog" class="
                       inline-flex
                       items-center
                       border-b-2 border-transparent

@@ -34,15 +34,15 @@ flourish as a Information Technology technician..</p>
             <ul className="flex justify-center items-center gap-4">
 
               <li className={`border border-gray-500 rounded-lg p-2 ${isActive.active && isActive.name === "education" && 'bg-[#FF8F56]'} `}>
-                <a href="" id="education" onClick={handleActive} className="font-roboto font-bold text-xl text-[#E7EFF3]">Education</a>
+                <a href="" id="education" onClick={handleActive} className="font-roboto font-bold text-xl">Education</a>
               </li>
 
               <li className={`border border-gray-500 rounded-lg p-2 ${isActive.active && isActive.name === "work" && 'bg-[#FF8F56]'} `}>
-                <a href="#work" id="work" onClick={handleActive} className="font-roboto  text-xl " >Work</a>
+                <a href="#work" id="work" onClick={handleActive} className="font-roboto font-bold text-xl " >Work</a>
               </li>
 
               <li className={`border border-gray-500 rounded-lg p-2 ${isActive.active && isActive.name === "hobbies" && 'bg-[#FF8F56]'} `}>
-                <a href="#hobbies" id="hobbies" onClick={handleActive} className="font-roboto  text-xl ">Hobbies</a>
+                <a href="#hobbies" id="hobbies" onClick={handleActive} className="font-roboto font-bold text-xl ">Hobbies</a>
               </li>
             </ul>
           </div> 
