@@ -13,6 +13,7 @@ export default function Blog() {
           return {
             id: doc.id,
             ...doc.data(),
+            
           };
         })
       );
@@ -68,7 +69,7 @@ export default function Blog() {
                         </p>
                         <a href="#" class="mt-2 block">
                           <p class="text-xl font-semibold text-gray-900">
-                            Boost your conversion rate
+                            {post.title}
                           </p>
                           <p class="mt-3 text-base text-gray-500">
                             Lorem ipsum dolor sit amet consectetur adipisicing
@@ -79,6 +80,7 @@ export default function Blog() {
                         </a>
                       </div>
                       <div class="mt-6 flex items-center">
+                        {/* copy and cut paste in postauthorcard */}
                         <div class="flex-shrink-0">
                           <a href="#">
                             <span class="sr-only">Roel Aufderehar</span>
@@ -89,6 +91,8 @@ export default function Blog() {
                             />
                           </a>
                         </div>
+
+                        {/* copy and paste in postauthorcard */}
                         <div class="ml-3">
                           <p class="text-sm font-medium text-gray-900">
                             <a href="#" class="hover:underline">

@@ -11,14 +11,17 @@ export default function Hobbies(){
 
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Reading</summary>
-          <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-            pavilions, award-winning fireworks and seasonal special events.</p>
+          <p><b>The gods are not to blame</b></p>
         </details>
 
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Sporting</summary>
-          <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-            pavilions, award-winning fireworks and seasonal special events.</p>
+          <p>Football</p>
+          <p>Athletics</p>
+          <p>Volleyball</p>
+          <p>Tennis</p>
+          <p>Cricket</p>
+          
         </details>
 
         <details class="px-6 py-4">
