@@ -85,6 +85,7 @@ export default function Navbar(){
                       text-gray-900
                     ">
 
+
                       Projects
 
                    </Link>

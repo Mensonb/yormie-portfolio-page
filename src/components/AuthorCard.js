@@ -25,7 +25,7 @@ setIsActive({
         </div>
         <div id="content" class="prose lg:prose-xl px-2">
           <h1 class="text-center text-gray-800 text-4xl capitalize font-medium">Yormie Menson B</h1>
-          <small class="text-center block text-md text-gray-800">Writer, Teacher &amp; Software Engineer</small>
+          <small class="text-center block text-md text-gray-800">IT Personal, Teacher &amp; Software Engineer</small>
           <p class="text-justify text-lg text-gray-800">“Hi, I am Yormie, a student of Wuxi University, China. I'm seeking a role which allows me to
 continue learning and perfecting my skills as I provide high-quality work, and encourages me to
 flourish as a Information Technology technician..</p>

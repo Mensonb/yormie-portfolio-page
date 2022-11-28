@@ -11,20 +11,23 @@ export default function Work(){
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Ministry Of Health</summary>
-                <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-                  pavilions, award-winning fireworks and seasonal special events.</p>
+                <p>- Currently volunteering at the Ministry of Health Mental health unit</p>
               </details>
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Peculiar Treasure International School</summary>
-                <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-                  pavilions, award-winning fireworks and seasonal special events.</p>
+                <ul>
+                  <li></li>
+                </ul>
+                <p>- My time the above institution I served as Math Teacher for the Elementary and Junior High division </p>
+                <p>- Also served on the Program and planning committee at the institution</p>
+                <p></p>
               </details>
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Liberia Domestic Airport Authority</summary>
-                <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-                  pavilions, award-winning fireworks and seasonal special events.</p>
+                <p>- Intern student at the above entity in the Electricial and Maintenance department</p>
+                <p>- Inspect install and troubleshoot all electrical issues</p>
               </details>
 
             </div>

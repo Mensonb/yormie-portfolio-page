@@ -27,12 +27,10 @@ export default function Contact(){
                   xl:text-[40px]
                   "
                   >
-                  GET IN TOUCH WITH US
+                  GET IN TOUCH WITH YORMIE
                </h2>
-               <p class="text-base text-body-color leading-relaxed mb-9">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eius tempor incididunt ut labore et dolore magna aliqua. Ut enim
-                  adiqua minim veniam quis nostrud exercitation ullamco
+               <p class="text-base text-body-color leading-relaxed mb-9 tx-center">
+                  Hey Dear! I am here to help you bring Information Technology closer to you. I am here to make your work easier
                </p>
 
             </div>

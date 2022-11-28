@@ -6,12 +6,12 @@ export default function Education(){
 
 <div id="education" class="bg-[#fff] h-auto my-6 py-8 rounded-lg border-4">
               <div class="flex justify-center">
-                <h3 class="border-4 w-25  border-dashed px-4 py-2">Personal Information</h3>
+                <h3 class="border-4 w-25  border-dashed px-4 py-2">Education</h3>
               </div>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Education</summary>
-                <p><b>Wuxi University, China</b></p>
+                <summary class="font-bold text-2xl text-gray-800">Wuxi University China</summary>
+                
                 <p><i>2019-2023</i></p>
                 <p>Bachelor Degree Candidate, Computer Science &amp; Technology</p>
                 
@@ -19,32 +19,20 @@ export default function Education(){
               </details>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Experience</summary>
-                <p><b>Peculiar Treasure International School</b></p>
-                <p><i>September 2016-June 2018</i></p>
-                <p>Math Teacher, Elementary &amp; Junior High</p><br/>
+                <summary class="font-bold text-2xl text-gray-800">Liberia Opportunity Industrialization Center</summary>
+                
 
-                <p><b>Liberia Domestic Airport Authority</b></p>
-                <p><i>June 2015-August 2017</i></p>
-                <p>Electrician &amp; Maintenance Services</p>
+
               </details>
 
               <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Skills</summary>
-               <ul>
-                <li>- HTML</li>
-                <li>- CSS</li>
-                <li>- Database Fundamental</li>
-                <li>- MS Word</li>
-                <li>- Power point</li>
-               </ul>
+                <summary class="font-bold text-2xl text-gray-800">Oceanview Christian Academy</summary>
+             
+
+             
               </details>
 
-              <details class="px-6 py-4">
-                <summary class="font-bold text-2xl text-gray-800">Certificates</summary>
-                <p><b>2016-2018 - </b>====</p>
-                <p><b>2015-2016 - </b>====</p>
-              </details>
+              
     </div>
     
     )
